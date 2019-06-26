@@ -1,7 +1,7 @@
 {
   "name": "GA News",
   "short_name": "GA News",
-  "start_url": "/pmobweb/index.php",
+  "start_url": "/pmobweb/index.html",
   "scope": ".",
   "display": "standalone",
   "orientation": "portrait-primary",
