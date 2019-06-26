@@ -26,7 +26,7 @@ var cached_urls = [
   '/pmobweb/src/css/nativedroid2.css',
   '/pmobweb/src/css/nativedroid2.color.blue-grey.css',
   '//ajax.googleapis.com/ajax/libs/jquerymobile/1.4.5/jquery.mobile.min.css',
-  'http://code.jquery.com/jquery-1.11.1.min.js',
+  'https://code.jquery.com/jquery-1.11.1.min.js',
   '//code.jquery.com/ui/1.11.4/jquery-ui.min.js',
   '//ajax.googleapis.com/ajax/libs/jquerymobile/1.4.5/jquery.mobile.min.js',
   '//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css'
